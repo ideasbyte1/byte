@@ -1,0 +1,51 @@
+#mainhead{
+	background-color: #f4b41a;
+	color: black;
+	margin-right: 800px;
+	text-align: center;
+	border-left: 10px solid #143d59;
+}
+
+
+
+#git{
+	font-family: sans-serif;
+	font-weight: bold;
+}
+
+
+li{
+	font-weight: bold;
+	font-size: 20px;
+	font-family: sans-serif;
+}
+
+a{
+	text-decoration: none;
+}
+
+p{
+	font-family: Arail, Helvetica, sans-serif;
+}
+
+footer{
+	text-align: center;
+	background-color: lightgreen;
+}
+
+
+.fa-instagram{
+	background-color: darkblue;
+	font-size: 30px;
+	color: white;
+	padding: 10px;
+	border-radius: 20px;
+}
+
+.fa-telegram{
+	background-color: skyblue;
+	color: white;
+	font-size: 30px;
+	border-radius: 20px;
+	padding: 10px;
+}
